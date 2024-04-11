@@ -1,0 +1,152 @@
+.page{
+	background-color: #FFFFFF;
+	color: rgb(30, 30, 30);
+	left: 0%;
+	right: 0%;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 0%;
+	font-family: inter, sans-serif;
+	font-size: 20.73px;
+	font-weight: 400;
+	position: static;
+	padding-left: -0px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    left: 0;
+    right: 0;
+}
+.first_image{
+    padding-top: 4%;
+}
+.img1{
+    width: 100%;
+    height: 350px;
+    padding-bottom: 0%;
+}
+.ahadi1 {/*
+	top: 133px;
+	left: 413px;
+	width: 563.4px;
+	height: 115.4px;*/
+    position: absolute;
+	text-align: center;
+    top: 35%;
+    left: 36%;
+    overflow: hidden;
+	font-size: 24px;
+	line-height: 110.4px;
+	line-height: 27.5px;
+}
+.body2{
+    padding-top: 0%;/*
+    background-color: #1307b6;*/
+}
+.ahadi{
+	overflow: hidden;
+	text-align: center;/*
+    	top: 222px;
+	left: 0px;
+	width: 603px;
+	height: 333px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: left;
+	line-height: 33px;
+	padding-top: 7px;
+	margin-top: -7px;
+	color:#FFFFFF;*/
+}
+.text1{
+	overflow: hidden;
+    align-items: center;
+    text-align: justify;
+    display: flex;
+    justify-content: space-between;
+}
+.text_land{
+    top: 20%;
+	left: 0%;
+	width: 40%;
+	margin-left: 4%;
+    text-align: left;
+}
+.image_land{
+    right: 0%;    
+    top: 20%;
+	left: 0%;
+	width: 40%;
+	margin-left: 4%;
+}/*
+#_bg__group_2
+2_ek1 {
+	top: -716px;
+	left: -78px;
+	width: 1326px;
+	height: 948px;
+	background:#;
+}
+#group_2 {
+	top: 0px;
+	left: 0px;
+	width: 638px;
+	height: 833px;
+}
+#_bg__group_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 638px;
+	height: 833px;
+	background:#;
+}
+.text_pic{
+    display: flex;
+}
+
+#object_other_17_ek4 {
+    padding-left: 20%;
+	top: 0px;
+	width: 638px;
+	height: 833px;
+}*/
+.line{
+	color: chartreuse;
+	margin-top: 5%;
+}
+.footer{
+	margin-top: 5%;
+	display: flex;
+	justify-content: space-between;
+}
+.about_home{
+	top: 0px;
+	left: opx;
+	padding-left: 4%;
+	overflow: hidden;
+	text-align: left;
+}
+.text_home{
+	top: 0px;
+	left: 0px;
+	width: 50%;
+	padding-left: 4%;
+	overflow: hidden;
+	text-align: left;
+	line-height: 49px;
+	padding-top: 1px;
+	margin-top: -1px;
+}
+.about_home_2{
+	top: 0px;
+	width: 50%;
+	padding-right: 10%;
+	text-align: left;
+	line-height: 49px;
+	padding-top: 1px;
+	margin-top: -1px;
+}
